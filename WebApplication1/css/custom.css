@@ -1,0 +1,147 @@
+﻿.container-fluid
+{
+    padding: 40px; background-color: #f3ffc6; height: 400px;
+}
+
+ul
+{
+    list-style-type:none;
+    display:inline-block;
+    margin-left:0px;
+}
+
+  
+.radio-btn
+{
+    margin-left: 30px;
+}
+
+.txtScored1, .txtScored2, .txtScored3, .txtScored4
+{
+    margin-left: 60px;
+}
+
+.txtAllowed1, .txtAllowed2, .txtAllowed3, .txtAllowed4
+{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.txtSpectator1, .txtSpectator2, .txtSpectator3, .txtSpectator4
+{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+    .game1
+{
+    width:250px;
+    margin-right: 0px;
+    border-radius: 10px;
+    background-color: #d9d19d;
+}
+
+.game2
+{
+     width:250px;
+    margin-right: 0px;
+    border-radius: 10px;
+    background-color: #d9d19d;
+}
+
+.game3
+{
+     width:250px;
+    margin-right: 0px;
+    border-radius: 10px;
+    background-color: #d9d19d;
+}
+
+.game4
+{
+    width:250px;
+    margin-right: 0px;
+    border-radius: 10px;
+    background-color: #d9d19d;
+}
+
+.calc-btn
+{
+    margin-left:600px;
+}
+
+
+
+/*MEDIA QUERIES FOR DISPLAY ON MOBILE SETS*/
+
+@media only screen and (max-width: 500px) {
+    .radio-btn
+{
+    margin-left: 70px;
+}
+
+.txtScored1, .txtScored2, .txtScored3, .txtScored4
+{
+    margin-left: 30px;
+}
+
+.txtAllowed1, .txtAllowed2, .txtAllowed3, .txtAllowed4
+{
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.txtSpectator1, .txtSpectator2, .txtSpectator3, .txtSpectator4
+{
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.game1
+{
+   
+   
+    height: 370px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #c1c5c5;
+}
+.game2
+{
+   
+   
+    height: 370px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #c1c5c5;
+}
+.game3
+{
+   
+   
+    height: 370px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #c1c5c5;
+}
+.game4
+{
+   
+   
+    height: 370px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: #c1c5c5;
+}
+
+.calc-btn
+{
+    margin-left:100px;
+}
+
+
+.container-fluid
+{
+    padding: 40px; background-color: #e5e5e5; height: 1600px;
+}
+}
